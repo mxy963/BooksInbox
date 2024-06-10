@@ -1,0 +1,46 @@
+@model IEnumerable<Writer>
+@{
+    ViewData["Title"] = "Yazarlar";
+    
+    <link rel="stylesheet" href="~/css/booksStyle.css" />
+    <link rel="stylesheet" href="~/css/sliderStyle.css" />
+    <link rel="stylesheet" href="~/css/swiper-bundle.min.css">
+}
+
+<!--Body1-->
+<div class="books-body-1">
+    <div class="books-yazi-1">Ünlü Yazarlar</div>
+</div>
+
+<!--slider-->
+<div class="slide-container swiper">
+    <div class="slide-content">
+        <div class="card-wrapper swiper-wrapper">
+            <!--#region card swiper-slides  -->
+            <!--01-->
+            @foreach (var obj in Model)
+            {
+                <div class="card swiper-slide">
+                    <div class="image-content">
+                        <span class="overlay"></span>
+                        <div class="card-image">
+                            <img src="@Url.Content("~/img/Yazarlar/" +@obj.ImageName)" alt="Yazar Image" class="card-img">
+                        </div>
+                    </div>
+                    <div class="card-content">
+                        <h5 class="name">@obj.Name</h5>
+                        
+                        <button class="ViewBtn"> <a asp-controller="Writer" asp-action="Detail" asp-route-id="@obj.ID">Görüntüle</a></button>
+                    </div>
+                </div>
+            }
+            <!-- endregion -->
+        </div>
+    </div>
+    <div class="swiper-button-next swiper-navBtn"></div>
+    <div class="swiper-button-prev swiper-navBtn"></div>
+    <div class="swiper-pagination"></div>
+</div>
+
+
+<script src="../js/swiper-bundle.min.js"></script>

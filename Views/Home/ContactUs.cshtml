@@ -1,0 +1,57 @@
+@{
+    ViewData["Title"] = "Hakkımzda";
+    <link rel="stylesheet" href="~/css/aboutusStyle.css" />
+}
+<div class="aboutusBg">
+    <img src="~/img/AboutusBg.png" class="aboutusBg" />
+</div>
+
+<div class="aboutus-body-2">
+    <div class="aboutus-yazi-20">Bize Ulaşın</div>
+
+    <div class="aboutus-yazi-21">
+        <p> Size nasıl yardımcı olabiliriz? Sorularınızı, geri bildirimlerinizi veya herhangi bir konuyu bize
+            iletmek
+            için
+            buradayız. Bizimle iletişime geçmek için iletişim formunu doldurabilirsiniz.</p>
+    </div>
+</div>
+
+
+<div class="aboutus-body-3">
+    <form action="#" method="post">
+         <div class="kutucuk">
+            <label class="label1"><b>Adınız Soyadını :</b></label>
+            <input class="text1" type="text" id="adsoyad" name="Username" placeholder="Adınızı Giriniz">
+
+            <label class="label2"><b>Email Adresiniz :</b></label>
+            <input class="text2" type="email" id="email" placeholder="example@gmail.com">
+
+            <label class="label3"><b>Geri Bildiriminiz :</b></label>
+            <textarea class="text3" id="mesaj" type="" placeholder="..."></textarea>
+</div>
+<div class="button">
+    <input type="button" value="Gönder" id="gonderButton">
+</div>
+<div class="aboutus-books-inbox">Books Inbox</div>
+<script>
+    // Gönder düğmesine tıklanınca e-posta bağlantısını oluştur
+    document.getElementById("gonderButton").addEventListener("click", function () {
+        var adsoyad = document.getElementById("adsoyad").value;
+        var email = document.getElementById("email").value;
+        var mesaj = document.getElementById("mesaj").value;
+
+        var subject = "Geri Bildirim"; // E-posta konusu
+
+        // E-posta içeriği oluştur
+        var body = "Merhaba,\n\nAd Soyad: " + adsoyad + "\nE-posta: " + email + "\n\nKonu: " + mesaj + "\n";
+
+        // E-posta bağlantısını oluştur
+        var mailtoLink = "mailto:destek@example.com?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
+
+        // E-posta bağlantısını aç
+        window.location.href = mailtoLink;
+    });
+</script>
+</form>
+</div>

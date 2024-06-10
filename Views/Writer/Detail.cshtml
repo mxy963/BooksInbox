@@ -1,0 +1,71 @@
+@model WriterDetailViewModel
+
+@{
+    ViewData["Title"] = @Model.Writer.Name;
+    <link rel="stylesheet" href="~/css/footerStyle.css" />
+    <link rel="stylesheet" href="~/css/booksStyle.css" />
+    <link rel="stylesheet" href="~/css/sliderStyle.css" />
+}
+<br>
+<br>
+<div class="border p-3 mt-4">
+    <h1>@Model.Writer.Name </h1>
+
+
+    <div class="row">
+        <div class="col-md-6">
+            <img src="@Url.Content("~/img/Yazarlar/" +@Model.Writer.ImageName)" alt="Writer Image"
+                class="card-img viewimg">
+
+        </div>
+
+
+        <ul>
+            <div> Ad: @Model.Writer.Name </div>
+            <br>
+            <div>
+                <br>
+                <p>Doğum Tarihi: @Model.Writer.BrithDataTime.Year </p>
+                <br>
+                <p>Ölüm Tarihi: @Model.Writer.DeathDataTime.Year </p>
+
+            </div>
+            <a asp-controller="Writer" asp-action="Index"><button class="ViewBtn">Geri</button></a>
+
+        </ul>
+    </div>
+    @if (Model.Book != null)
+    {
+        <div class="image-content">
+            <span class="overlay"></span>
+            <div class="card-image">
+
+                <img src="@Url.Content("~/img/" +@Model.Book.ImageName)" alt="Book Image" class="card-img viewimg">
+            </div>
+        </div>
+        <div class="card-content">
+            <h2 class="name">@Model.Book.Name</h2>
+            <p class="descreption">@Model.Book.WriterName</p>
+            <a asp-controller="Book" asp-action="Detail" asp-route-id="@Model.Book.ID"><button
+                    class="ViewBtn">Görüntüle</button></a>
+
+        </div>
+
+        <br>
+
+        <br>
+
+        <br>
+
+        <br>
+
+        <br>
+
+        <br>
+
+        <br>
+
+        <br>
+
+        <br>
+    }

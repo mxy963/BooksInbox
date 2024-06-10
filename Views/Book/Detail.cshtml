@@ -1,0 +1,38 @@
+@model BookDetailViewModel
+
+@{
+    ViewData["Title"] = @Model.Book.Name;
+    <link rel="stylesheet" href="~/css/booksStyle.css" />
+    <link rel="stylesheet" href="~/css/sliderStyle.css" />
+    <link rel="stylesheet" href="~/css/footerStyle.css" />
+}
+<br>
+<br>
+<div class="border p-3 mt-4">
+    <h1>@Model.Book.Name </h1>
+
+    <div class="row">
+        <div>
+            <img src="@Url.Content("~/img/" +@Model.Book.ImageName)" alt="Kitap foto" class="card-img viewimg">
+        </div>
+        <ul class="list-unstyled">
+            <div> Ad : @Model.Book.Name </div>
+            <br>
+            <div>
+                @if (@Model.Writer != null)
+                {
+                    <p> Yazar : <button class="ViewBtn"><a asp-controller="Writer" asp-action="Detail"
+                                asp-route-id="@Model.Writer.ID">@Model.Book.WriterName</a></button></p>
+                }
+                else
+                {
+                    <p> Yazar : <button class="ViewBtn">@Model.Book.WriterName</button></p>
+                }
+                <br>
+                <p>Çıkış Tarihi: @Model.Book.DataTime.Year </p>
+                <br>
+                <p>Sayfa Sayısı: @Model.Book.PageCount </p>
+            </div>
+            <a asp-controller="Book" asp-action="Index"><button class="ViewBtn">Geri</button></a>
+        </ul>
+    </div><br><br><br><br><br><br><br><br><br>

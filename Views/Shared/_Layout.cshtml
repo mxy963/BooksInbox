@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] </title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/headerstyle.css">
+    <link rel="stylesheet" href="~/css/footerStyle.css" />
+    <link rel="stylesheet" href="~/Books_Inbox.styles.css" asp-append-version="true" />
+    <link rel="icon" href="~/favicon.jpg" type="image/jpeg" />
+</head>
+<body>
+    <header>
+     <div class="header-group">
+        <div class="header-bg"></div>
+        <div class="header">
+            <div class="menu">
+                <a asp-area="" asp-controller="Home" asp-action="Index" class="item">Ana Sayfa</a>
+                <a asp-area="" asp-controller="Book" asp-action="Index"  class="item">Kitaplar</a>
+                <a asp-area="" asp-controller="Writer" asp-action="Index"  class="item">Yazarlar</a>
+                <a class="item" asp-area="" asp-controller="Home" asp-action="AboutUs">Hakkımızda</a>
+                <a asp-area="" asp-controller="Home" asp-action="ContactUs" class="item">Bize Ulaşın</a>
+                
+                
+            </div> 
+            <a asp-area="" asp-controller="Home" asp-action="Index">
+                <img class="logo"  src="~/img/logo.png" alt="Logo" />
+            </a>
+        </div>
+    </div>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+           <div class="footer">
+        <div class="menuf">
+            <a href="https://facebook.com">
+                <img class="facebook" src="~/img/facebook.png" alt="facebook logo" />
+            </a>
+            <a href="https://instagram.com">
+                <img class="instagram" src="~/img/instagram.png" alt="instagram logo" />
+            </a>
+            <a href="https://x.com">
+                <img class="twitter" src="~/img/twitter.png" alt="twitter logo" />
+            </a>
+            <a href="https://whatsapp.com">
+                <img class="whatsapp" src="~/img/whatsapp.png" alt="whatsapp logo" />
+            </a>
+        </div>
+        <div class="copy">
+            &copy;2023 Muhammed Yusufoğlu - Tüm Hakları Saklıdır
+        </div>
+    </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="/_framework/aspnetcore-browser-refresh.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Ana Sayfa";
+    <link rel="stylesheet" href="~/css/homeStyle.css" />
+}
+<div class="homeBg">
+            <img src="../img/homeBg.png" class="homeBg" />
+        </div>
+
+ <!--Body-->
+<div class="home-page">
+        
+        <div class="kitaplar">
+            <a asp-controller="Book" asp-action="Detail" asp-route-id="3"><img class="kitap-1" src="../img/kitap-1.png" /></a>
+            <a asp-controller="Book" asp-action="Detail" asp-route-id="9"><img class="kitap-2" src="../img/kitap-2.png" /></a>
+            <a asp-controller="Book" asp-action="Detail" asp-route-id="10"><img class="kitap-3" src="../img/kitap-3.png" /></a>
+            <a asp-controller="Book" asp-action="Detail" asp-route-id="12"><img class="kitap-4" src="../img/kitap-4.png" /></a>
+            <a asp-controller="Book" asp-action="Detail" asp-route-id="14"><img class="kitap-5" src="../img/kitap-5.png" /></a>
+            <a asp-controller="Book" asp-action="Detail" asp-route-id="15"><img class="kitap-6" src="../img/kitap-6.png" /></a>
+            <a asp-controller="Book" asp-action="Detail" asp-route-id="16"><img class="kitap-7" src="../img/kitap-7.png" /></a>
+        </div>
+
+        <div class="home-body">
+            <div class="books-inbox">
+                <span>
+                    <span class="books-inbox-span">Books</span>
+                    <span class="books-inbox-span2">Inbox</span>
+                </span>
+            </div>
+            <div class="home-yazi-1">
+                <span>
+                    <span class="home-yazi-11">Sonsuz maceraların kapıları aralanıyor!
+                        <br /><br />
+                        Sizleri kitapların büyülü dünyasına
+                    </span>
+                    <span class="home-yazi-12"><a asp-controller="Book" asp-action="Index" >davet ediyoruz</a>
+                    </span>
+                </span>
+            </div>
+            <div class="home-yazi-2">
+                <span>
+                    <span class="home-yazi-21">En sevdiğiniz </span>
+                    <span class="home-yazi-22">yazarların eserleri<br /></span>
+                    <span class="home-yazi-23">yeni keşfedeceğiniz</span>
+                    <span class="home-yazi-24"> yazarlarla dolu geniş koleksiyonumuzla
+                        <br />size eşlik etmek için buradayız
+                    </span>
+                </span>
+            </div>
+        </div>
+    </div>
