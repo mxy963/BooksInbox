@@ -28,23 +28,23 @@ BooksInbox is a virtual library website designed to provide book lovers with acc
 <h2>Screenshots</h2>
 
 <p align="center">
-  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/HomePage.png/>
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/HomePage.png" width="100%"/>
 </p>
     
 <p align="center">
-  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/BooksPage.png/>
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/BooksPage.png" width="800"/>
 </p>
     
 <p align="center">
-  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/AuthorsPage.png/>
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/AuthorsPage.png" width="700"/>
 </p>
     
 <p align="center">
-  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/AboutUsPage.png/>
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/AboutUsPage.png" width="600"/>
 </p>
     
 <p align="center">
-  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/ContactUsPage.png>
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/ContactUsPage.png" width="500"/>
 </p>
     
 <p align="center">
