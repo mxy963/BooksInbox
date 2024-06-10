@@ -26,31 +26,33 @@ BooksInbox is a virtual library website designed to provide book lovers with acc
 
 ## Photos
 <h2>Screenshots</h2>
+
 <p align="center">
-  <img src="https://github.com/yourusername/booksinbox/blob/main/screenshots/homepage.png" width="300"/> 
-  <img src="https://github.com/yourusername/booksinbox/blob/main/screenshots/book_page.png" width="300"/> 
-  <img src="https://github.com/yourusername/booksinbox/blob/main/screenshots/author_page.png" width="300"/> 
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/HomePage.png/>
+</p>
+    
+<p align="center">
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/BooksPage.png/>
+</p>
+    
+<p align="center">
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/AuthorsPage.png/>
+</p>
+    
+<p align="center">
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/AboutUsPage.png/>
+</p>
+    
+<p align="center">
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/ContactUsPage.png/>
+</p>
+    
+<p align="center">
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/BookId.png" width="300"/>  
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/AuthorId.png" width="300"/>  
 </p>
 
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/booksinbox.git
-
-<h2> Ana Sayfa </h2>
-<img src="https://github.com/mxy963/Books_Inbox/blob/main/Foto/Screenshot%202024-04-04%20120839.png">
-
-<h2> Kitaplar </h2>
-<img src="https://github.com/mxy963/Books_Inbox/blob/main/Foto/Screenshot%202024-04-04%20120850.png">
-
-<h2> Yazarlar </h2>
-<img src="https://github.com/mxy963/Books_Inbox/blob/main/Foto/Screenshot%202024-04-04%20120859.png">
-
-<h2> Hakımızda </h2>
-<img src="https://github.com/mxy963/Books_Inbox/blob/main/Foto/Screenshot%202024-04-04%20120911.png">
-
-<h2> Kitap Sayfası </h2>
-<img src="https://github.com/mxy963/Books_Inbox/blob/main/Foto/Screenshot%202024-04-04%20120933.png">
-
-<h2> Yazar Sayfası </h2>
-<img src="https://github.com/mxy963/Books_Inbox/blob/main/Foto/Screenshot%202024-04-04%20121002.png">
+   git clone https://github.com/my963/Books_Inbox.git
