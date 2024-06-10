@@ -1,0 +1,48 @@
+.footer {
+    background-color: #530000;
+    display: flex;
+    flex-direction: row;
+    gap: 700px;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 50px;
+    position:fixed;
+    bottom: 0;  
+    left: 0;
+    z-index: 1000;
+  }
+  
+  
+  .facebook,
+  .instagram,
+  .twitter,
+  .whatsapp {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    position: relative;  
+    transition: transform 0.3s;  
+  }
+  
+  .facebook:hover,
+  .instagram:hover,
+  .twitter:hover,
+  .whatsapp:hover {
+    transform: scale(1.2);  
+  }
+  
+  .copy{
+      color: white; 
+  }
+  
+  .menuf {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      flex-shrink: 0;
+      width: 160px;
+      position: relative;
+  }
+  

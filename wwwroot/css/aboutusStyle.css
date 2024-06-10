@@ -1,0 +1,211 @@
+.aboutus-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #ffffff;
+    min-height: 100vh;
+  
+  }
+  
+  .aboutusBg {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    top: 0;
+  }
+  
+  
+  .aboutus-yazi-10 {
+    color: #450000;
+    text-align: center;
+    font: 500 39.62px "Rubik", sans-serif;
+    position: fixed;
+    left: 1285px;
+    top: 163px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .aboutus-yazi-11 {
+    color: #330101;
+    text-align: center;
+    font: 500 22.07px "Rubik", sans-serif;
+    position: fixed;
+    left: calc(50% - 138px);
+    top: 231px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .aboutus-yazi-12 {
+    color: #330101;
+    text-align: center;
+    font: 500 22.07px "Rubik", sans-serif;
+    position: fixed;
+    left: calc(50% - -4px);
+    top: 274px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .aboutus-yazi-13 {
+    color: #330101;
+    text-align: center;
+    font: 500 22.07px "Rubik", sans-serif;
+    position: fixed;
+    left: calc(50% - 79px);
+    top: 345px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .aboutus-yazi-14 {
+    color: #450000;
+    text-align: center;
+    font: 500 22.07px "Rubik", sans-serif;
+    position: fixed;
+    left: 782px;
+    top: 391px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .aboutus-books-inbox {
+    color: #ffffff;
+    text-align: center;
+    font: 500 53px "Rubik", sans-serif;
+    position: fixed;
+    left: 29px;
+    top: calc(50% - 10px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+  }
+  
+  .aboutus-yazi-20{
+    color:   #450000;
+    text-align: center;
+    font: 500 39.62px "Rubik", sans-serif;
+    position: fixed;
+    left: 1280px;
+    top: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .aboutus-yazi-21 {
+    color: var(--brand, #330101);
+    text-align: center;
+    font: var(--texture, 500 22.07px "Rubik", sans-serif);
+    position: fixed;
+    left: 838px;
+    top: 250px;
+    width: 1124px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  } 
+  
+  .aboutus-body-3 .label1{
+    color: #330101;
+    text-align: center;
+    font: 500 16px "Rubik", sans-serif;
+    position: fixed;
+    left: calc(45%);
+    top: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .aboutus-body-3 .label2{
+    color: #330101;
+    text-align: center;
+    font: 500 16px "Rubik", sans-serif;
+    position: fixed;
+    left: calc(45%);
+    top: 393px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .aboutus-body-3 .label3{
+    color: #330101;
+    text-align: center;
+    font: 500 16px "Rubik", sans-serif;
+    position: fixed;
+    left: calc(67%);
+    top: 353px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .aboutus-body-3 .text1{
+    color: #330101;
+    text-align: center;
+    font: 500 14px "Rubik", sans-serif;
+    position: fixed;
+    left: calc(52%);
+    top: 348px;
+    height: 25px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .aboutus-body-3 .text2{
+    color: #330101;
+    text-align: center;
+    font: 500 14px "Rubik", sans-serif;
+    position: fixed;
+    left: calc(52%);
+    top: 388px;
+    height: 25px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .aboutus-body-3 .text3 {
+    color: #330101;
+    text-align: left; /* Metnin sol üst köşeden başlamasını sağlar */
+    font: 500 14px "Rubik", sans-serif;
+    position: fixed;
+    left: calc(74%);
+    top: 350px;
+    height: 150px; /* Örnekte 150 piksel yükseklik */
+    width: 230px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    white-space: normal;
+    padding:10px; /* Padding özelliğini kapatır */
+    vertical-align: top; /* Metni yukarıda başlatır */
+    resize: none;
+  }
+  
+  
+  
+  .button input[type="button"] {
+    color: #fff; /* Metin rengi: Beyaz */ 
+    background-color: #330101;
+    text-align: center;
+    font: 500 14px "Rubik", sans-serif;
+    position: fixed;
+    left: calc(52%);
+    top:450px;  
+    width: 260px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  

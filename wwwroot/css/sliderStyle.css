@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    min-height: 100vh;
+    display: flex; 
+    background-color: #ededed;
+
+}
+a{
+    color: #FFF;
+}
+a:hover{
+    color: #ededed;
+}
+
+.slide-container{ 
+    max-width: 1200px;
+    height: 400px; 
+    width: 100%;
+    position: relative;
+    top: 210px;
+    left: 20px;
+    padding: 40px;
+}   
+.slide-content{
+    margin: 0 30px;
+    overflow:hidden;
+} 
+
+.card { 
+    width: 300px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    margin-right: 10px;  
+}
+
+
+
+.card-image .card-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10%;
+    border: 3px solid #301;
+}
+
+.image-content,
+.card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 15px;
+    width: 250px;
+} 
+.image-content {
+    position: relative;
+    row-gap: 5px;
+    
+}
+
+.overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color:#301 ;
+    border-radius: 20px 20px 0 0 ;
+}
+
+.card-image {
+    position: relative;
+    height: 210px;
+    width: 150px;
+    border-radius: 10%;
+    background: #FFF;
+    padding: 3px;
+}
+.card:hover{ 
+    transform: scale(1.009); 
+}
+
+.name,
+.descreption {
+    color: #301;
+    text-align: center;
+}
+
+.ViewBtn {
+    border: none;
+    font-size: 16px;
+    color: #FFF;
+    padding: 8px 16px;
+    background-color: #301;
+    border-radius: 6px;
+    margin: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+}
+
+.ViewBtn:hover {
+    background-color: #55001c;
+} 
+.swiper-navBtn:hover{
+    color:#301;
+} 
+
+.swiper-button-next {
+    right: 0;
+}
+
+.swiper-button-prev {
+    left: 0;
+} 
+.swiper-pagination-bullet:hover{
+    background-color:#301;
+    opacity: 1;
+} 
