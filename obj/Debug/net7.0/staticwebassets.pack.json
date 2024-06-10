@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Books Inbox.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Books Inbox.bundle.scp.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\css\\aboutusStyle.css",
+      "PackagePath": "staticwebassets\\css\\aboutusStyle.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\css\\booksStyle.css",
+      "PackagePath": "staticwebassets\\css\\booksStyle.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\css\\footerStyle.css",
+      "PackagePath": "staticwebassets\\css\\footerStyle.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\css\\headerStyle.css",
+      "PackagePath": "staticwebassets\\css\\headerStyle.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\css\\homeStyle.css",
+      "PackagePath": "staticwebassets\\css\\homeStyle.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\css\\sliderStyle.css",
+      "PackagePath": "staticwebassets\\css\\sliderStyle.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\favicon.jpg",
+      "PackagePath": "staticwebassets\\favicon.jpg"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\AboutusBg.png",
+      "PackagePath": "staticwebassets\\img\\AboutusBg.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\HomeBg.png",
+      "PackagePath": "staticwebassets\\img\\HomeBg.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\StoreBg.png",
+      "PackagePath": "staticwebassets\\img\\StoreBg.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\Yazarlar\\yazar-1.png",
+      "PackagePath": "staticwebassets\\img\\Yazarlar\\yazar-1.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\Yazarlar\\yazar-10.png",
+      "PackagePath": "staticwebassets\\img\\Yazarlar\\yazar-10.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\Yazarlar\\yazar-11.png",
+      "PackagePath": "staticwebassets\\img\\Yazarlar\\yazar-11.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\Yazarlar\\yazar-12.png",
+      "PackagePath": "staticwebassets\\img\\Yazarlar\\yazar-12.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\Yazarlar\\yazar-14.png",
+      "PackagePath": "staticwebassets\\img\\Yazarlar\\yazar-14.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\Yazarlar\\yazar-2.png",
+      "PackagePath": "staticwebassets\\img\\Yazarlar\\yazar-2.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\Yazarlar\\yazar-3.png",
+      "PackagePath": "staticwebassets\\img\\Yazarlar\\yazar-3.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\Yazarlar\\yazar-4.png",
+      "PackagePath": "staticwebassets\\img\\Yazarlar\\yazar-4.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\Yazarlar\\yazar-5.png",
+      "PackagePath": "staticwebassets\\img\\Yazarlar\\yazar-5.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\Yazarlar\\yazar-6.png",
+      "PackagePath": "staticwebassets\\img\\Yazarlar\\yazar-6.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\Yazarlar\\yazar-7.png",
+      "PackagePath": "staticwebassets\\img\\Yazarlar\\yazar-7.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\Yazarlar\\yazar-8.png",
+      "PackagePath": "staticwebassets\\img\\Yazarlar\\yazar-8.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\Yazarlar\\yazar-9.png",
+      "PackagePath": "staticwebassets\\img\\Yazarlar\\yazar-9.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\facebook.png",
+      "PackagePath": "staticwebassets\\img\\facebook.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\instagram.png",
+      "PackagePath": "staticwebassets\\img\\instagram.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-1.png",
+      "PackagePath": "staticwebassets\\img\\kitap-1.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-10.png",
+      "PackagePath": "staticwebassets\\img\\kitap-10.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-11.png",
+      "PackagePath": "staticwebassets\\img\\kitap-11.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-12.png",
+      "PackagePath": "staticwebassets\\img\\kitap-12.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-13.png",
+      "PackagePath": "staticwebassets\\img\\kitap-13.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-14.png",
+      "PackagePath": "staticwebassets\\img\\kitap-14.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-2.png",
+      "PackagePath": "staticwebassets\\img\\kitap-2.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-3.png",
+      "PackagePath": "staticwebassets\\img\\kitap-3.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-4.png",
+      "PackagePath": "staticwebassets\\img\\kitap-4.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-5.png",
+      "PackagePath": "staticwebassets\\img\\kitap-5.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-6.png",
+      "PackagePath": "staticwebassets\\img\\kitap-6.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-7.png",
+      "PackagePath": "staticwebassets\\img\\kitap-7.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-8.png",
+      "PackagePath": "staticwebassets\\img\\kitap-8.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\kitap-9.png",
+      "PackagePath": "staticwebassets\\img\\kitap-9.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\twitter.png",
+      "PackagePath": "staticwebassets\\img\\twitter.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\img\\whatsapp.png",
+      "PackagePath": "staticwebassets\\img\\whatsapp.png"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\js\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "B:\\Visual_2020\\C#\\Books Inbox\\Books Inbox\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Books Inbox.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Books Inbox.props",
+      "PackagePath": "build\\Books Inbox.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Books Inbox.props",
+      "PackagePath": "buildMultiTargeting\\Books Inbox.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Books Inbox.props",
+      "PackagePath": "buildTransitive\\Books Inbox.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

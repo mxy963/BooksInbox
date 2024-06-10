@@ -1,0 +1,81 @@
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\appsettings.Development.json
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\appsettings.json
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Books Inbox.staticwebassets.runtime.json
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Books Inbox.exe
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Books Inbox.deps.json
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Books Inbox.runtimeconfig.json
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Books Inbox.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Books Inbox.pdb
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\Books Inbox.GeneratedMSBuildEditorConfig.editorconfig
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\Books Inbox.AssemblyInfoInputs.cache
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\Books Inbox.AssemblyInfo.cs
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\Books Inbox.csproj.CoreCompileInputs.cache
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\Books Inbox.MvcApplicationPartsAssemblyInfo.cache
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\Books Inbox.RazorAssemblyInfo.cache
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\Books Inbox.RazorAssemblyInfo.cs
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\staticwebassets\msbuild.Books Inbox.Microsoft.AspNetCore.StaticWebAssets.props
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\staticwebassets\msbuild.build.Books Inbox.props
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Books Inbox.props
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Books Inbox.props
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\staticwebassets.pack.json
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\staticwebassets.build.json
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\staticwebassets.development.json
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\scopedcss\bundle\Books Inbox.styles.css
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\scopedcss\projectbundle\Books Inbox.bundle.scp.css
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\Books Inbox.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\refint\Books Inbox.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\Books Inbox.pdb
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\Books Inbox.genruntimeconfig.cache
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\ref\Books Inbox.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\Books Inbox.csproj.AssemblyReference.cache
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Azure.Core.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Azure.Identity.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\System.Drawing.Common.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\System.Memory.Data.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\System.Runtime.Caching.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\System.Security.Permissions.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\System.Windows.Extensions.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\obj\Debug\net7.0\Books Inbox.csproj.CopyComplete
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Humanizer.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\Mono.TextTemplating.dll
+B:\Visual_2020\C#\Books Inbox\Books Inbox\bin\Debug\net7.0\System.CodeDom.dll
