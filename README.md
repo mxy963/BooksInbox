@@ -32,24 +32,27 @@ BooksInbox is a virtual library website designed to provide book lovers with acc
 </p>
     
 <p align="center">
-  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/BooksPage.png" width="800"/>
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/BooksPage.png" width="100%"/>
 </p>
     
 <p align="center">
-  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/AuthorsPage.png" width="700"/>
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/AuthorsPage.png" width="100%"/>
 </p>
     
 <p align="center">
-  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/AboutUsPage.png" width="600"/>
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/AboutUsPage.png" width="100%"/>
 </p>
     
 <p align="center">
-  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/ContactUsPage.png" width="500"/>
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/ContactUsPage.png" width="100%"/>
 </p>
     
 <p align="center">
-  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/BookId.png" width="300"/>  
-  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/AuthorId.png" width="300"/>  
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/BookId.png" width="100%"/>  
+</p>
+
+<p align="center">
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/AuthorId.png" width="100%"/>  
 </p>
 
 ## How to Use
