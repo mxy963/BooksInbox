@@ -44,7 +44,7 @@ BooksInbox is a virtual library website designed to provide book lovers with acc
 </p>
     
 <p align="center">
-  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/ContactUsPage.png/>
+  <img src="https://github.com/mxy963/Books_Inbox/blob/main/photos/ContactUsPage.png>
 </p>
     
 <p align="center">
